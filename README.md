@@ -1,4 +1,4 @@
-<h1>Landing Page for Data Analytics Academy @ CreativeHub - Educational Company</h1>
+<h1>Landing Page for Software Testing Academy @ CreativeHub - Educational Company</h1>
 
 
 <h2>Description</h2>
